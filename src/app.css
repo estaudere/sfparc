@@ -1,0 +1,35 @@
+@import 'tailwindcss/base';
+@import 'tailwindcss/components';
+@import 'tailwindcss/utilities';
+
+@layer base {
+    @font-face {
+        font-family: 'Blue Screen';
+        font-style: normal;
+        font-weight: 500;
+        src: local(''), url('/fonts/Blue Screen.ttf') format('truetype');
+    }
+
+    @font-face {
+        font-family: 'Perfect DOS VGA 437';
+        font-style: normal;
+        font-weight: 400;
+        src: local(''), url('/fonts/Perfect DOS VGA 437.ttf') format('truetype');
+    }
+
+    h1, h2, h3, h4, h5, h6 {
+        @apply font-dosvga;
+    }
+
+    p {
+        @apply font-mono text-lg;
+    }
+
+    a {
+        @apply text-primary underline;
+    }
+
+    /* body {
+        @apply bg-background;
+    } */
+}
