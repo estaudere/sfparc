@@ -23,6 +23,7 @@
 		"vite": "^6.0.0"
 	},
 	"dependencies": {
-		"@sveltejs/adapter-static": "^3.0.6"
+		"@sveltejs/adapter-static": "^3.0.6",
+		"posthog-js": "^1.207.2"
 	}
 }
