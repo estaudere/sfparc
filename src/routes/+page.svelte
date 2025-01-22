@@ -45,7 +45,7 @@
 	<p class="mb-24">
 		Our house is home to engineers, researchers, and artists and is part of the broader network of
 		<a href="https://livetheresidency.com" target="_blank">The Residency</a>, a global network of homes for the ambitious, with residents' projects
-		collectively valued at over $100 million.
+		collectively valued at over $150 million.
 	</p>
 
 	<h2 class="mb-5 text-3xl">house specs</h2>
