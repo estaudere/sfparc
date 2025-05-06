@@ -7,11 +7,14 @@
 <svelte:head>
 	<title>SF Parc</title>
 	<meta name="description" content="A home for creative technologists" />
-	<meta name="twitter:card" content="summary">
+	<meta name="twitter:card" content="summary" />
 	<meta property="og:url" content="https://sfparc.com" />
 	<meta property="og:title" content="SF Parc" />
 	<meta property="og:description" content="A home for creative technologists" />
-	<meta property="og:image" content="https://pbs.twimg.com/media/GhCBzm5asAAkSe9?format=jpg&name=medium" />
+	<meta
+		property="og:image"
+		content="https://pbs.twimg.com/media/GhCBzm5asAAkSe9?format=jpg&name=medium"
+	/>
 </svelte:head>
 
 <!-- hero -->
@@ -44,21 +47,15 @@
 
 	<p class="mb-24">
 		Our house is home to engineers, researchers, and artists and is part of the broader network of
-		<a href="https://livetheresidency.com" target="_blank">The Residency</a>, a global network of homes for the ambitious, with residents' projects
-		collectively valued at over $150 million.
+		<a href="https://livetheresidency.com" target="_blank">The Residency</a>, a global network of
+		homes for the ambitious, with residents' projects collectively valued at over $200 million.
 	</p>
 
 	<h2 class="mb-5 text-3xl">house specs</h2>
 
 	<div class="align-center flex flex-row flex-wrap justify-center gap-x-6 gap-y-1 text-center">
 		<p class="text-xl text-gray-700">
-			<Icon icon="fa6-solid:cube" class="my-auto mr-0.5 inline-block" /> 3d printer
-		</p>
-		<p class="text-xl text-gray-700">
-			<Icon icon="fa6-solid:screwdriver" class="my-auto mr-0.5 inline-block" /> cnc machine
-		</p>
-		<p class="text-xl text-gray-700">
-			<Icon icon="fa6-solid:microchip" class="my-auto mr-0.5 inline-block" /> pcb printer
+			<Icon icon="fa6-solid:cube" class="my-auto mr-0.5 inline-block" /> hardware lab
 		</p>
 		<p class="text-xl text-gray-700">
 			<Icon icon="fa6-solid:water" class="my-auto mr-0.5 inline-block" /> cold plunge
@@ -76,38 +73,44 @@
 	<Person
 		name="neha desaraju"
 		link="https://x.com/nehadesaraju"
-		desc="high-fidelity 3d reconstruction"
+		desc="financial instruments for the agi economy"
 	/>
-	<Person name="mackay grant" link="https://x.com/mackaygg" desc="the next industrial revolution" />
+	<Person
+		name="mackay grant"
+		link="https://x.com/mackaygg"
+		desc="financial instruments for the agi economy"
+	/>
 	<Person
 		name="nick linck"
 		link="https://x.com/nick_linck"
 		desc="alternative to college for the ambitious"
 	/>
 	<Person
-		name="ilyas colie"
-		link="https://x.com/colie_ilyas"
-		desc="automating property management"
+		name="mason dierkes"
+		link="https://x.com/masondierkes"
+		desc="autonomous ios development"
 	/>
 	<Person
-		name="christopher arraya"
-		link="https://x.com/cjarrayadev"
-		desc="automating property management"
+		name="tasha pais"
+		link="https://x.com/TashaPais"
+		desc="mechanistic interpretability research"
 	/>
-	<Person name="akshay narisetti" link="http://x.com/akshaynarisetti" desc="open source hardware" />
-	<Person name="tasha pais" link="https://x.com/TashaPais" desc="open source hardware" />
 	<Person
-		name="aidan pratt"
-		link="https://x.com/aidan__pratt"
-		desc="ai for finding automatable workflows"
+		name="zach kreutzjans"
+		link="https://x.com/zkreutzjans"
+		desc="web agent evals"
 	/>
-	<Person name="chloe samaha" link="https://x.com/bondwithchloe" desc="bond: ai managers" />
 	<Person
-		name="jolie gan"
-		link="https://x.com/joliegans"
-		desc="synthetic data generation for research"
+		name="danny friday"
+		link="https://www.linkedin.com/in/danny-friday-b86930112/"
+		desc="making health affordable"
 	/>
-	<Person name="madam" link="https://x.com/madamxcity" desc="network city" />
+
+	<Person
+		name="camilo saravia"
+		link="https://x.com/curiouscamilo"
+		desc="investing in the evolution of technology"
+	/>
 </div>
 
 <!-- <h2 class="text-3xl text-center">from organizations such as</h2>
@@ -116,10 +119,10 @@
     <img id="sf" src="/images/sf.jpeg" alt="background patent"/>
 </div> -->
 
-<h2 class="text-center text-3xl mb-5">community</h2>
-<p class="mx-auto text-center w-3/4 mb-24">
-	We host a variety of workshops, coworking events, hackathons, dinners, and more. Our most notable
-	events include <strong class="font-bold">poker nights</strong> (once a month),
+<h2 class="mb-5 text-center text-3xl">community</h2>
+<p class="mx-auto mb-24 w-3/4 text-center">
+	We host a variety of workshops, coworking events, hackathons, and more. Our most notable events
+	include <strong class="font-bold">dinners</strong> (once a week),
 	<strong class="font-bold">demos and coworking</strong>
 	(using our common office and lounge areas), and <strong class="font-bold">fireside chats</strong>
 	from San Francisco's most impactful people. Sign up for our upcoming events on our
