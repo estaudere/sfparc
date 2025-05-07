@@ -105,7 +105,11 @@
 		link="https://www.linkedin.com/in/danny-friday-b86930112/"
 		desc="making health affordable"
 	/>
-
+	<Person
+		name="pranav iyer"
+		link="https://x.com/pranaviyer27"
+		desc="new healthcare system"
+	/>
 	<Person
 		name="camilo saravia"
 		link="https://x.com/curiouscamilo"
