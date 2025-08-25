@@ -51,7 +51,7 @@
 		homes for the ambitious, with residents' projects collectively valued at over $200 million.
 	</p>
 
-	<h2 class="mb-5 text-3xl">house specs</h2>
+	<!-- <h2 class="mb-5 text-3xl">house specs</h2>
 
 	<div class="align-center flex flex-row flex-wrap justify-center gap-x-6 gap-y-1 text-center">
 		<p class="text-xl text-gray-700">
@@ -63,7 +63,7 @@
 		<p class="text-xl text-gray-700">
 			<Icon icon="fa6-solid:hard-drive" class="my-auto mr-0.5 inline-block" /> compute [coming soon]
 		</p>
-	</div>
+	</div> -->
 </div>
 
 <h2 class="text-center text-3xl">residents</h2>
@@ -81,39 +81,9 @@
 		desc="financial instruments for the agi economy"
 	/>
 	<Person
-		name="nick linck"
-		link="https://x.com/nick_linck"
-		desc="alternative to college for the ambitious"
-	/>
-	<Person
-		name="mason dierkes"
-		link="https://x.com/masondierkes"
-		desc="autonomous ios development"
-	/>
-	<Person
-		name="tasha pais"
-		link="https://x.com/TashaPais"
-		desc="mechanistic interpretability research"
-	/>
-	<Person
-		name="zach kreutzjans"
-		link="https://x.com/zkreutzjans"
-		desc="web agent evals"
-	/>
-	<Person
-		name="danny friday"
-		link="https://www.linkedin.com/in/danny-friday-b86930112/"
-		desc="making health affordable"
-	/>
-	<Person
-		name="pranav iyer"
-		link="https://x.com/pranaviyer27"
-		desc="new healthcare system"
-	/>
-	<Person
-		name="camilo saravia"
-		link="https://x.com/curiouscamilo"
-		desc="investing in the evolution of technology"
+		name="coming soon..."
+		link=""
+		desc=""
 	/>
 </div>
 
@@ -137,9 +107,8 @@
 <div class="mx-auto mb-24 flex w-3/4 flex-row gap-x-12">
 	<p class="w-full flex-grow">
 		stay as a short-term guest, stop by for a day in our office, or host an event with us, contact <a
-			href="mailto:neha.desaraju@gmail.com">neha</a
+			href="mailto:neha.desaraju@gmail.com,mail@mackaygrant.com">neha & mackay</a
 		>
-		or <a href="mailto:mail@mackaygrant.com">mackay</a>
 	</p>
 	<p class="w-full flex-grow">
 		live with us for an upcoming cohort, <a href="https://livetheresidency.com"
